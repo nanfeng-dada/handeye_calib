@@ -9,7 +9,7 @@ handeye_calibrate
 
 - 说明：
 
-  1. 本代码验证了opencv手眼标定用于eye to hand的方式
+  1.本代码验证了opencv手眼标定用于eye to hand的方式
   
   2.机器人末端为x y z rx ry rz表示，存于robot.txt中；单位mm、 rad
   
